@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+numpy
+joblib
+pillow
+opencv-python
+scipy
+tensorflow
+imageio-ffmpeg

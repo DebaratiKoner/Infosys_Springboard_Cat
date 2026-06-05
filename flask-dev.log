@@ -1,0 +1,7 @@
+Image Model loaded from C:\Users\91960\OneDrive\Desktop\placement\infosys cat\models\cnn_image_best.keras!
+Image Model warmed up!
+Audio Model (Keras) loaded from C:\Users\91960\OneDrive\Desktop\placement\infosys cat\models\lstm_audio_best.keras!
+Audio Model warmed up!
+Audio feature extraction warmed up!
+ * Serving Flask app 'app'
+ * Debug mode: on

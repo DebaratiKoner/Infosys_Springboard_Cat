@@ -1,0 +1,130 @@
+WARNING:tensorflow:TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+C:\Users\91960\OneDrive\Desktop\placement\infosys cat\venv310\Lib\site-packages\keras\src\models\functional.py:258: UserWarning: The structure of `inputs` doesn't match the expected structure.
+Expected: ['input_layer']
+Received: inputs=Tensor(shape=(1, 224, 224, 3))
+  warnings.warn(msg)
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+127.0.0.1 - - [05/Jun/2026 15:48:57] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2026 15:50:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/upset-house-cat-101420.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/young-cat-owner-playing-with-her-pet-at-home_Africa-Studio_Shutterstock.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/images.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(1).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/js/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(2).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(3).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(4).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(5).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/family.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(6).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(11).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(12).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(13).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(14).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(7).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(8).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(9).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:14] "GET /static/image/download%20(10).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 15:50:31] "POST /predict_audio HTTP/1.1" 400 -
+C:\Users\91960\OneDrive\Desktop\placement\infosys cat\venv310\Lib\site-packages\keras\src\models\functional.py:258: UserWarning: The structure of `inputs` doesn't match the expected structure.
+Expected: ['input_layer']
+Received: inputs=Tensor(shape=(1, 224, 224, 3))
+  warnings.warn(msg)
+127.0.0.1 - - [05/Jun/2026 15:51:35] "POST /predict_image HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/young-cat-owner-playing-with-her-pet-at-home_Africa-Studio_Shutterstock.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/images.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/upset-house-cat-101420.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/download.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/download%20(1).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/js/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/download%20(2).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/download%20(4).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/download%20(3).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/family.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/download%20(5).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/download%20(6).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/download%20(11).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:35] "GET /static/image/download%20(12).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:36] "GET /static/image/download%20(13).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:36] "GET /static/image/download%20(14).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:36] "GET /static/image/download%20(7).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:36] "GET /static/image/download%20(8).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:36] "GET /static/image/download%20(9).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:36] "GET /static/image/download%20(10).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:04:52] "POST /predict_image HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2026 16:05:06] "POST /predict_audio HTTP/1.1" 400 -
+127.0.0.1 - - [05/Jun/2026 16:18:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2026 16:18:46] "GET /static/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:46] "GET /static/image/upset-house-cat-101420.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:46] "GET /static/image/images.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:46] "GET /static/image/young-cat-owner-playing-with-her-pet-at-home_Africa-Studio_Shutterstock.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:46] "GET /static/image/download.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:46] "GET /static/image/download%20(1).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:47] "GET /static/js/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:47] "GET /static/image/download%20(2).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(3).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(4).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/family.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(5).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(6).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(11).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(12).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(13).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(14).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(7).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(8).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:48] "GET /static/image/download%20(9).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:18:49] "GET /static/image/download%20(10).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:57] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2026 16:21:57] "GET /static/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:57] "GET /static/image/young-cat-owner-playing-with-her-pet-at-home_Africa-Studio_Shutterstock.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/images.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/upset-house-cat-101420.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(1).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/js/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(2).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(3).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(4).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/family.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(5).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(6).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(11).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(12).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(13).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(14).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(7).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(8).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(9).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:21:58] "GET /static/image/download%20(10).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/js/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/young-cat-owner-playing-with-her-pet-at-home_Africa-Studio_Shutterstock.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/images.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/upset-house-cat-101420.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(1).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(2).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(3).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(4).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/family.jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(5).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(6).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(11).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(12).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(13).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(14).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(7).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(8).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(9).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:16] "GET /static/image/download%20(10).jpeg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2026 16:22:26] "POST /predict_audio HTTP/1.1" 400 -
+127.0.0.1 - - [05/Jun/2026 16:22:28] "POST /predict_audio HTTP/1.1" 400 -
+127.0.0.1 - - [05/Jun/2026 16:22:28] "POST /predict_audio HTTP/1.1" 400 -
